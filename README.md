@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , Tailwind**
 
-- 📫 How to reach me **asiswisesa089@gmail.com**
+- 📫 How to reach me **mamajuice03@gmail.com**
 
 - ⚡ Fun fact **I like to play competitive games**
 
