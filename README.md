@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cirrusaurus03.cirrusaurus03" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mamajuices2.mamajuices2" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=BEDFF7&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mama+Juice!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, AI, mongoDB**
 
-💬 Ask me about **Tailwind, React, PHP... or anything [here](https://github.com/cirrusaurus03/cirrusaurus03)**
+💬 Ask me about **Tailwind, React, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
 
 ⚡ Fun fact **Like something minimalis**
 
