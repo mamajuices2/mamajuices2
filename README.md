@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Tailwind, AI, React**
 
-💬 Ask me about **Tailwind, Figma, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
+💬 Ask me about **Bootstrap, Figma, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
 
 ⚡ Fun fact **Like something minimalis**
 
