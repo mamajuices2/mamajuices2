@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying on **Sebelas Maret University**
  
- 🌱 I’m currently learning **Python, AI, mongoDB**
+ 🌱 I’m currently learning **Tailwind, AI, React**
 
-💬 Ask me about **Tailwind, React, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
+💬 Ask me about **Tailwind, Figma, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
 
 ⚡ Fun fact **Like something minimalis**
 
@@ -34,8 +34,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=php" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=twitter,instagram" /><br>
 </div>
 
 <br/>
