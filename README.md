@@ -39,7 +39,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=twitter,instagram" /><br>
 </div>
 
 <br/>
