@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=BEDFF7&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Winasis!;" />
 </h1>
 
-<h3 align="center">Aspiring to become a Fullstack developer from Indonesia</h3>
+<h3 align="center">Don't let money change you</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying on **Sebelas Maret University**
  
- 🌱 I’m currently learning **Tailwind, AI, React**
+ 🌱 I’m currently learning **Tailwind, Python, React**
 
-💬 Ask me about **Bootstrap, Figma, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
+💬 Ask me about **Figma [here](https://github.com/mamajuices2/mamajuices2)**
 
 ⚡ Fun fact **Like something minimalis**
 
@@ -34,11 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord,unreal" /><br>
-    <img src="https://skillicons.dev/icons?i=php" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,discord" /><br>
 </div>
 
 <br/>
